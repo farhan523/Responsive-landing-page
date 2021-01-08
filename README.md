@@ -6,4 +6,4 @@ grow your confidence
 
 you can check this project by going through the following link.
 
-http://construction-landing.surge.sh/
+http://barbarous-curve.surge.sh/
